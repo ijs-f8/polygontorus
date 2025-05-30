@@ -2,6 +2,10 @@
 
 Is a tool for creating axially symmetric CSG geometry. By revolving polygons around an axis, we get toroids -- a torus-like surface, which is a composite of conical, planar and cylindrical surfaces.
 
+Below is an example of an ITER-like simplified model generated with PolygonTorus. This is a complete CSG model consiting of only 9 cells and 309 surfaces.
+
+![alt text](example_ITER-like-simple-model.png)
+
 Currently it generates CSG geometry for openMC and MCNP. When generating MCNP geometry the tool can be used by itself, whereas when generating openMC geometry, openMC is used for the construction of surfaces and regions.
 
 The tool is in its early stages:

@@ -2,7 +2,7 @@
 
 Is a tool for creating axially symmetric CSG geometry. By revolving polygons around an axis, we get toroids -- a torus-like surface, which is a composite of conical, planar and cylindrical surfaces.
 
-Below is an example of an ITER-like simplified model generated with PolygonTorus. This is a complete CSG model consiting of only 9 cells and 309 surfaces.
+Below is an example of an ITER-like simplified model generated with PolygonTorus. This is a fully CSG model consiting of only 9 cells and 309 surfaces.
 
 ![alt text](example_ITER-like-simple-model.png)
 

@@ -27,4 +27,14 @@ For a theoretical explanation see `polygontorus_presentation.pdf`. For examples 
 
 ## Ongoing activities
 
-* Performance assessment vs. toroidal surfaces
+* Performance assessment of polygon torus vs. toroidal surfaces
+* Better MCNP workflow
+
+## Similar work
+
+Recently, the creation of an axially symmetric CSG geometry from a revolved polygon defined with vertices has been achieved by multiple parties, independently:
+ * [OceanNuclear](https://github.com/OceanNuclear) for [bluemira](https://github.com/Fusion-Power-Plant-Framework/bluemira.git)
+ * the team at Southwestern Institute for Physics
+ * others?
+
+Ideally, this method would be incorporated into [openmc](https://github.com/openmc-dev/openmc). In the mean time I plan to develop some more features, and make it more eficently use surfaces.

@@ -39,4 +39,4 @@ Recently, the creation of an axially symmetric CSG geometry from a revolved poly
 
 Ideally, this method would be incorporated into [openmc](https://github.com/openmc-dev/openmc). In the mean time I plan to develop some more features, and make it more eficently use surfaces.
 
-A similar feature has already been implemented in openmc [openmc.model.Polygon](https://docs.openmc.org/en/v0.14.0/pythonapi/generated/openmc.model.Polygon.html).
+A similar feature has already been implemented in openmc [openmc.model.Polygon](https://docs.openmc.org/en/v0.14.0/pythonapi/generated/openmc.model.Polygon.html). The openmc feature nicely handles non-convex polygons.

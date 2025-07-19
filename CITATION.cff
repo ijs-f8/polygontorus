@@ -4,7 +4,7 @@ authors:
   - family-names: Fortuna
     given-names: Mark
     orcid: https://orcid.org/0000-0002-4629-357X
-title: "PolygonTorus: A tool for creating axially symetric CSG geometry."
+title: "PolygonTorus: A tool for creating axially symmetric CSG geometry."
 url: "https://github.com/mark-fortuna/polygontorus"
 version: 0.0.1
 date-released: 2025-05-30
